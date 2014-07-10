@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="VideoPlayer" Description="Javascript videoplayer based on Video-JS" Type="object">
+<Text Label="URL for MP4" Type="text"  Initial="http://video-js.zencoder.com/oceans-clip.mp4" Expression="http://video-js.zencoder.com/oceans-clip.mp4"/>
+<Text Label="URL for WEBM" Type="text"  Initial="http://video-js.zencoder.com/oceans-clip.webm" Expression="http://video-js.zencoder.com/oceans-clip.webm"/>
+<Text Label="URL for OGG" Type="text"  Initial="http://video-js.zencoder.com/oceans-clip.ogv" Expression="http://video-js.zencoder.com/oceans-clip.ogv"/>
+</ExtensionObject>
